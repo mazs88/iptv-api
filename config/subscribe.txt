@@ -1,6 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://github.com/iptv-org/iptv/blob/master/streams/cn.m3u
+https://github.com/iptv-org/iptv/blob/master/streams/cn_cctv.m3u
+
 
 
 
